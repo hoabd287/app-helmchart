@@ -8,7 +8,7 @@ image:
   repository: registry.hub.docker.com/hoabd4/nodejs-helm-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1"
+  tag: "v15"
 
 imagePullSecrets: []
 nameOverride: ""
